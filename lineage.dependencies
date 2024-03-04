@@ -7,10 +7,5 @@
   {
     "repository": "crdroidandroid/android_kernel_xiaomi_sm8150",
     "target_path": "kernel/xiaomi/sm8150"
-  },
-  {
-    "repository": "crdroidandroid/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "remote": "crdroid-gitlab"
   }
 ]
